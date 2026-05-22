@@ -3,7 +3,7 @@ export default function Header(){
         <>
         <header className="px-8 relative z-20 flex flex-row flex-auto justify-between">
             <p className="p-8 font-sans text-xl text-dark">
-                Madelyn Torff
+                Antonin DAS NEVES
             </p>
             <div className="flex flex-row items-center justify-evenly">
                 <p className="p-4 font-sans text-xl text-dark">
